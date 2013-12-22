@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * DP
+ * Longest increasing subsequence 
+ */
 
 public class POJ2533 {
 

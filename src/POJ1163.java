@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * DP
+ * Number Triangle
+ */
 
 public class POJ1163 {
 
